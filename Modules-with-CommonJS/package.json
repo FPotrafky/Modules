@@ -1,0 +1,16 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "live-server": "^1.2.0",
+    "systemjs": "^0.20.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "./node_modules/.bin/live-server --host=localhost --port=8080 ."
+  },
+  "author": "",
+  "license": "ISC"
+}

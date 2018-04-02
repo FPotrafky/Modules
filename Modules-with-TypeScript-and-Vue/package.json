@@ -1,0 +1,26 @@
+{
+  "name": "modules-with-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/live-server --host=localhost --port=8080 .",
+    "serve": "./node_modules/.bin/live-server --host=localhost --port=8080 ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FPotrafky/Modules-with-TypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FPotrafky/Modules-with-TypeScript/issues"
+  },
+  "homepage": "https://github.com/FPotrafky/Modules-with-TypeScript#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  },
+  "dependencies": {
+    "systemjs": "^0.20.19"
+  }
+}
